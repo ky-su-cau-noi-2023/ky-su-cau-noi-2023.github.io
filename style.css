@@ -1,21 +1,21 @@
 .bg-img1 {
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(./img/background1.jpg);
+    url(background1.jpg);
   background-size: cover;
 }
 
 .bg-img2 {
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(./img/background2.jpg);
+    url(background2.jpg);
   background-size: cover;
 }
 
 .bg-img3 {
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(./img/background3.jpg);
+    url(background3.jpg);
   background-size: cover;
 }
 
